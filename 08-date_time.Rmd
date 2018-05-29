@@ -1,0 +1,8 @@
+# 날짜형 데이터 처리 {#dttm}
+
+1. 날짜형 데이터 구조 소개 : POSIXlt와 POSIXct
+
+2. dplyr 패키지 소개 
+
+3. 실습 사례를 활용한 날짜형 데이터와 dplyr 활용 유도
+   - 미국 워싱턴주 Capital BikeShare 데이터 활용

@@ -1,3 +1,4 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example.
-
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/
+R for every korean 이라는 제목을 쓰고자 하는 책의 습작입니다.
+과연 책으로 나올 수 있을지 모르겠으나, 적어도 제 수업을 듣는 학생들의
+의견을 받아 볼 수 있는 수준까지는 가볼려고 합니다. 하하하
+(2018-05-29 화요일 17시 28분)
